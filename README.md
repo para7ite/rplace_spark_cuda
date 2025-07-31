@@ -84,6 +84,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is licensed under the MIT License. See the LICENSE file for details.
 🎬 Video Output
 
-Here's the final result. The full animated_canvas.mp4 will be generated when you run the notebook.
-
-<video src="https://github.com/para7ite/rplace_spark_cuda/raw/main/animated_canvas.mp4" controls="controls" style="max-width: 720px;"></video>
+<video src="https://github.com/para7ite/rplace_spark_cuda/raw/main/animated_canvas.mp4" controls="controls" style="max-width: 720px;">Here's the final result. The full animated_canvas.mp4 will be generated when you run the notebook.
+</video>
