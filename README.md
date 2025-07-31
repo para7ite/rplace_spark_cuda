@@ -76,12 +76,11 @@ Follow these steps to get the project running on your local machine.
 
     Witness the Creation: The script will download the data, process it, and save the final timelapse as animated_canvas.mp4 in the project directory.
 
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 🎬 Video Output
 
-Here's a sneak peek of the final result. The full animated_canvas.mp4 will be generated when you run the notebook. You can also replace the placeholder below with a GIF of your video.
+Here's a sneak peek of the final result. The full animated_canvas.mp4 will be generated when you run the notebook. You can also replace the placeholder below with a GIF of your video and add a direct link.
+
+Watch the Timelapse Video Here
