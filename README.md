@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">🚀 r/place Timelapse with PySpark & NVIDIA RAPIDS 🚀</h1>
 <p align="center">
-Recreating the entire 2022 r/place canvas from 132 million pixels, accelerated by the power of GPUs.
+Recreating the entire 2023 r/place canvas from 132 million pixels, accelerated by the power of GPUs.
 </p>
 </div>
 
@@ -76,11 +76,14 @@ Follow these steps to get the project running on your local machine.
 
     Witness the Creation: The script will download the data, process it, and save the final timelapse as animated_canvas.mp4 in the project directory.
 
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 🎬 Video Output
 
-Here's a sneak peek of the final result. The full animated_canvas.mp4 will be generated when you run the notebook. You can also replace the placeholder below with a GIF of your video and add a direct link.
+Here's the final result. The full animated_canvas.mp4 will be generated when you run the notebook.
 
-Watch the Timelapse Video Here
+<video src="https://github.com/para7ite/rplace_spark_cuda/raw/main/animated_canvas.mp4" controls="controls" style="max-width: 720px;"></video>
